@@ -30,6 +30,7 @@ void code()
 		fenwick tree always start with 1-based indexing
 		option 1 : sum [L, R]
 		option 2 : addition at "i"th index by val
+  		option 3 : if you want to chane value to "newVal"  then pass difference as "newVal - val"
 	*/
 
 	ll n;
